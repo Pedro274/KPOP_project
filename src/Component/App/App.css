@@ -1,3 +1,8 @@
 .web{
   border: 1px solid black;
 }
+
+.cardsContainer {
+  display: flex;
+  justify-content: center;
+}

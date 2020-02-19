@@ -1,8 +1,9 @@
 .web{
-  border: 1px solid black;
+  width: 100%;
 }
 
 .cardsContainer {
   display: flex;
   justify-content: center;
 }
+
